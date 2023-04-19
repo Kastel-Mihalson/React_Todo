@@ -1,0 +1,15 @@
+.todo-list-item > span {
+
+}
+.todo-list-item button {
+    margin-left: 0.2rem;
+}
+.todo-list-item.done span {
+    text-decoration: line-through;
+    text-decoration-thickness: 2px;
+    text-decoration-color: #585858;
+}
+.todo-list-item.important span {
+    color: #81a6d3;
+    font-weight: 800;
+}

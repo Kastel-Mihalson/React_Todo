@@ -1,0 +1,7 @@
+.search-panel {
+    width: 1000px;
+    margin-bottom: 1rem;
+}
+.search-panel input {
+    margin-right: 0.5rem;
+}
